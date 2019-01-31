@@ -3,7 +3,7 @@
   "description": "jQuery interactive vector maps",
   "version": "1.2.2",
   "license": "MIT",
-  "homepage": "http://jvectormap.com/"
+  "homepage": "http://jvectormap.com/",
   "authors": [
     "Kirill Lebedev <echo.bjornd@gmail.com>"
   ],
