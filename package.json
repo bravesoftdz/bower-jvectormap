@@ -1,6 +1,6 @@
 {
   "name": "bower-jvectormap",
-  "description": "",
+  "description": "Bower jvectormap",
   "license": "MIT",
   "version": "1.2.2",
   "keywords": [
@@ -11,5 +11,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/tlvince/bower-jvectormap"
+  },
+  
+  "devDependencies": {
+    "mocha": "*"
   }
 }
