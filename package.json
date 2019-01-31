@@ -1,12 +1,19 @@
 {
   "name": "bower-jvectormap",
-  "description": "Bower jvectormap",
-  "license": "MIT",
+  "description": "jQuery interactive vector maps",
   "version": "1.2.2",
-  "keywords": [
-    "bower-jvectormap",
-    "jvectormap"
+  "license": "MIT",
+  "homepage": "http://jvectormap.com/"
+  "authors": [
+    "Kirill Lebedev <echo.bjornd@gmail.com>"
   ],
+  "main": "jquery-jvectormap-1.2.2.min.js",
+  "keywords": [
+    "jquery",
+    "vector",
+    "maps"
+  ],
+
   "author": "everybody",
   "repository": {
     "type": "git",
